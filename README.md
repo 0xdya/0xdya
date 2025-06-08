@@ -1,53 +1,95 @@
-<h1 align="center">Hey, I'm 0xdya 🐍</h1>
 
+<h1 align="center">Welcome to 0xdya's Universe 🌌</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&width=435&lines=Cybersecurity+Lover;Frontend+Artist;Backend+Craftsman;Open+Source+Contributer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Frontend+Craftsman;Backend+Engineer;Open+Source+Contributor;Termux+Wizard;Full+Stack+In+Progress" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧙‍♂️ Who am I?
 
-- 🛡️ I'm passionate about **cybersecurity**, **full stack development**, and minimalist web design.
-- 📚 Author of **"المنهاج المبين في مسالك المتقين"**
-- 🌍 Founder of multiple static websites focused on user privacy and browser security.
+```bash
+> I am 0xdya
+> An Algerian programmer passionate about:
+    - Web Security 🔐
+    - Full Stack Development 🧬
+    - Terminal scripting & automation 🧾
+    - Building beautiful static sites 🌗
+````
+
+<p align="center">
+  <img src="https://github.com/0xdya/0xdya/assets/your_custom_profile_image.gif" width="200px"/>
+</p>
 
 ---
 
-### 🚀 Tech Stack
+### 🧰 Tech Toolbox
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Termux](https://img.shields.io/badge/-Termux-000000?logo=android&logoColor=green&style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=github&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,python,git,github,linux,bash&theme=dark" />
+</p>
 
 ---
 
-### 🐍 Snake Eating My Contribution Graph
+### 🛠️ Currently Using:
 
-![snake gif](https://github.com/0xdya/0xdya/blob/output/github-snake.svg)
+| Purpose              | Tools                                  |
+| -------------------- | -------------------------------------- |
+| Frontend             | HTML, CSS, JavaScript, Tailwind, React |
+| Backend              | Node.js, Express, Supabase             |
+| DB & APIs            | MongoDB, JSON APIs                     |
+| CLI & Scripting      | Bash, Termux, Git                      |
+| Writing              | Markdown, PDFKit                       |
+| Code Editor (mobile) | Acode, Termux                          |
 
 ---
 
 ### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xdya&show_icons=true&theme=github_dark&count_private=true&hide_title=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdya&layout=compact&theme=github_dark" height="170" />
+</div>
+
+---
+
+### 🧠 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdya&show_icons=true&theme=github_dark&hide_title=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdya&layout=compact&theme=github_dark" />
+  <img src="https://github.com/0xdya/0xdya/blob/output/github-snake.svg" />
 </p>
 
 ---
 
-### 🛰️ Visitors
+### 📊 GitHub Activity Graph
 
-![Visitors](https://komarev.com/ghpvc/?username=0xdya&label=Visitors&color=0e75b6&style=flat-square)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdya\&bg_color=0d1117\&color=58a6ff\&line=2d96ff\&point=ffffff\&area=true\&hide_border=true)
 
 ---
 
-### 🔗 Connect with Me
+### 👁️‍🗨️ Real-time Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=0xdya\&style=flat-square\&color=blueviolet)
+![Repos Badge](https://badges.pufler.dev/repos/0xdya)
+![Created Badge](https://badges.pufler.dev/created/0xdya/0xdya)
+
+---
+
+### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://0xdya.github.io"><img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:0xdya@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://0xdya.github.io"><img src="https://img.shields.io/badge/My%20Portfolio-0xdya.github.io-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:0xdya@protonmail.com"><img src="https://img.shields.io/badge/Email-0xdya@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail" /></a>
+  <a href="https://github.com/0xdya"><img src="https://img.shields.io/badge/GitHub-0xdya-181717?style=for-the-badge&logo=github" /></a>
 </p>
+
+---
+
+<h3 align="center">💬 "Code is like poetry — when elegant, it's powerful."</h3>
+```
