@@ -60,10 +60,14 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/0xdya/0xdya/blob/output/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/0xdya/0xdya/blob/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://github.com/0xdya/0xdya/blob/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
