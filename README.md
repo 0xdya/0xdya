@@ -31,33 +31,12 @@
 
 ---
 
-### 🛠️ Currently Using:
-
-| Purpose              | Tools                                  |
-| -------------------- | -------------------------------------- |
-| Frontend             | HTML, CSS, JavaScript, Tailwind, React |
-| Backend              | Node.js, Express, Supabase             |
-| DB & APIs            | MongoDB, JSON APIs                     |
-| CLI & Scripting      | Bash, Termux, Git                      |
-| Writing              | Markdown, PDFKit                       |
-| Code Editor (mobile) | Acode, Termux                          |
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xdya&show_icons=true&theme=github_dark&count_private=true&hide_title=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdya&layout=compact&theme=github_dark" height="170" />
 </div>
-
----
-
-### 🧠 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
-
----
 
 ### 🐍 Contribution Snake
 <p align="center">
@@ -95,5 +74,5 @@
 
 ---
 
-<h3 align="center">💬 "Code is like poetry — when elegant, it's powerful."</h3>
+<h3 align="center">💬 "i use Arch btw"</h3>
 ```
