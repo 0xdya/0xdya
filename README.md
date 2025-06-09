@@ -23,11 +23,3 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdya\&bg_color=0d1117\&color=58a6ff\&line=2d96ff\&point=ffffff\&area=true\&hide_border=true)
-
----
-
-### 👁️‍🗨️ Real-time Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=0xdya\&style=flat-square\&color=black)
-![Repos Badge](https://badges.pufler.dev/repos/0xdya\&color=black)
-![Created Badge](https://badges.pufler.dev/created/0xdya/0xdya\&color=black)
