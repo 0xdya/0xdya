@@ -12,16 +12,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdya&show_icons=true&theme=github_dark&count_private=true&hide_title=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdya&layout=compact&theme=github_dark" height="170" />
-</div>
-
-
----
-### 🐍 Contribution Snake
+### activity 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
@@ -31,16 +22,12 @@
 </p>
 
 
----
-
-### 📊 GitHub Activity Graph
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdya\&bg_color=0d1117\&color=58a6ff\&line=2d96ff\&point=ffffff\&area=true\&hide_border=true)
 
 ---
 
 ### 👁️‍🗨️ Real-time Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=0xdya\&style=flat-square\&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=0xdya\&style=flat-square\&color=hotpink)
 ![Repos Badge](https://badges.pufler.dev/repos/0xdya)
 ![Created Badge](https://badges.pufler.dev/created/0xdya/0xdya)
