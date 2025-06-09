@@ -1,16 +1,19 @@
 
-<h1 align="center">I'm 0xdya 🌌</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Frontend+Craftsman;Backend+Engineer;Open+Source+Contributor;Termux+Wizard;Full+Stack+In+Progress" alt="Typing SVG" />
-</p>
 
 ---
+
 
 <p align="center">
   <img src="https://github.com/0xdya/0xdya/assets/your_custom_profile_image.gif" width="200px"/>
 </p>
 
+
 ---
+<h1 align="center">I'm 0xdya 🌌</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Frontend+Craftsman;Backend+Engineer;Open+Source+Contributor;Termux+Wizard;Full+Stack+In+Progress" alt="Typing SVG" />
+</p>
+
 
 ### activity 
 <p align="center">
