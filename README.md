@@ -4,7 +4,7 @@
 </p>
 
 ---
-<h1 align="center">hey, I'm 0xdya 🌌</h1>
+<h1 align="center">hey, I'm 0xdya 🍃</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Full+Stack+Developer;Linux+User;Writer..." />
