@@ -11,7 +11,7 @@
 ---
 <h1 align="center">I'm 0xdya 🌌</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity;Writer;Web+Programmer;Open+Source+Developer;Linux+User;Software Engineer;Painter;Editor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity;Writer;Web+Programmer;Open+Source+Developer;Linux+User;Software Engineer;Painter;Editor;" alt="Typing SVG" />
 </p>
 
 <p align="center">
