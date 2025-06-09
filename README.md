@@ -28,6 +28,6 @@
 
 ### 👁️‍🗨️ Real-time Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=0xdya\&style=flat-square\&color=hotpink)
-![Repos Badge](https://badges.pufler.dev/repos/0xdya)
-![Created Badge](https://badges.pufler.dev/created/0xdya/0xdya)
+![Profile views](https://komarev.com/ghpvc/?username=0xdya\&style=flat-square\&color=black)
+![Repos Badge](https://badges.pufler.dev/repos/0xdya\&color=black)
+![Created Badge](https://badges.pufler.dev/created/0xdya/0xdya\&color=black)
