@@ -1,26 +1,27 @@
 
+<p align="center">
+  <img src="https://github.com/0xdya/0xdya/1.gif" width="200px"/>
+</p>
+
+---
+<h1 align="center">hey, I'm 0xdya 🌌</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Full+Stack+Developer;Linux+User;Writer..." />
+  </p>
 
 ---
 
 
 <p align="center">
-  <img src="https://github.com/0xdya/0xdya/assets/your_custom_profile_image.gif" width="200px"/>
+  <img src="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
 </p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdya&bg_color=0d1117&color=58a6ff&line=2d96ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
 
 
 ---
-<h1 align="center">I'm 0xdya 🌌</h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&width=435&lines=Cybersecurity;Full+Stack+Dev;Linux+User" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/0xdya/0xdya/blob/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/0xdya/0xdya/blob/output/github-snake.svg" />
-  </picture>
-</p>
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdya\&bg_color=0d1117\&color=58a6ff\&line=2d96ff\&point=ffffff\&area=true\&hide_border=true)
