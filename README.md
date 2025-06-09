@@ -11,11 +11,9 @@
 ---
 <h1 align="center">I'm 0xdya 🌌</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Frontend+Craftsman;Backend+Engineer;Open+Source+Contributor;Termux+Wizard;Full+Stack+In+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity;Writer;Web+Programmer;Open+Source+Developer;Linux+User;Software Engineer;Painter;Editor" alt="Typing SVG" />
 </p>
 
-
-### activity 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
