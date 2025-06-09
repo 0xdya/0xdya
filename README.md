@@ -21,5 +21,4 @@
   </picture>
 </p>
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdya\&bg_color=0d1117\&color=58a6ff\&line=2d96ff\&point=ffffff\&area=true\&hide_border=true)
+(https://github-readme-activity-graph.vercel.app/graph?username=0xdya\&bg_color=0d1117\&color=58a6ff\&line=2d96ff\&point=ffffff\&area=true\&hide_border=true)
