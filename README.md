@@ -25,7 +25,7 @@
   <img src="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
 </p>
 <div  align="center">
-<img width="640px" src="https://count.getloli.com/@0xdya?name=0xdya&theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
+<img width="500px" src="https://count.getloli.com/@0xdya?name=0xdya&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
 
 </div>
   <h1 align="center">'visits count'</h1>
