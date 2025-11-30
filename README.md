@@ -2,7 +2,7 @@
 
 <h1 align="center">🍂 hey, I'm 0xdya 🍂</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xdya/0xdya/refs/heads/main/1.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/0xdya/0xdya/refs/heads/main/2.gif" width="100%"/>
 </p>
 
 ---
