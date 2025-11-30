@@ -29,5 +29,3 @@
 
 </div>
   <h1 align="center">'visits count'</h1>
-
----
