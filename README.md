@@ -12,15 +12,28 @@
   </p>
 
 ---
+<div align="center">
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=0xdya&show_icons=true&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="500px"/> 
+      </td>
+      <td align="center">
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=0xdya&layout=compact&langs_count=10&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="330px"/>
+      </td>
+    </tr>
+  </table>
 
 | languages | streaks |
 | --- | --- |
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdya&theme=onedark&hide_title=true&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000) | ![streaks](https://github-readme-streak-stats.herokuapp.com?user=0xdya&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000) |
+| ![streaks](https://github-readme-streak-stats.herokuapp.com?user=0xdya&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000) | ![trophees](https://github-profile-trophy.vercel.app/?username=0xdya&theme=onedark&column=3&no-frame=true&no-bg=true) |
+
+</div>
 
 
-| stats | achievement |
-| --- | --- |
-| ![stats](https://github-readme-stats.vercel.app/api?username=0xdya&theme=onedark&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000) | ![trophees](https://github-profile-trophy.vercel.app/?username=0xdya&theme=onedark&column=3&no-frame=true&no-bg=true) |
+
+
 
 <p align="center">
   <img src="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
