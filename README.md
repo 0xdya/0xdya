@@ -1,16 +1,6 @@
-
-
-<h1 align="center">🍂 hey, I'm 0xdya 🍂</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xdya/0xdya/refs/heads/main/2.gif" width="100%"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=poet;Full+Stack+Developer;Linux+User;Writer...;painter" />
-  </p>
-
 ---
 <div align="center">
 
