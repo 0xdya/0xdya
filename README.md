@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xdya/0xdya/refs/heads/main/2.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/0xdya/0xdya/refs/heads/main/3.gif" width="100%"/>
 </p>
+
 ---
 <div align="center">
 
