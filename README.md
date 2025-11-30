@@ -25,9 +25,7 @@
 
 
 <div  align="center">
-<img src="https://count.getloli.com/@0xdya?name=0xdya&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
+  <img width="320px" src="https://img.shields.io/badge/profile%20visits:-343a40?style=for-the-badge&logo=&logoColor=white" alt="profile visits:"/> <img src="https://count.getloli.com/@0xdya?name=0xdya&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/profile%20visits%20count-343a40?style=for-the-badge&logo=&logoColor=white" alt="profile visits count"/>
+<p >
 </p>
-
