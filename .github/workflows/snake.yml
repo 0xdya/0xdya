@@ -16,10 +16,10 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-  github_user_name: 0xdya
-  outputs: |
-    dist/github-snake.svg?color_snake=#B69374&color_dots=#F5E6D3,#B69374,#4C5656
-    dist/github-snake-dark.svg?palette=github-dark&color_snake=#B69374&color_dots=#F5E6D3,#B69374,#4C5656
+          github_user_name: 0xdya
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
