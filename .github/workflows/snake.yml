@@ -19,7 +19,7 @@ jobs:
           github_user_name: 0xdya
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark-dimmed
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
