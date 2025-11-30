@@ -24,8 +24,13 @@
 <p align="center">
   <img src="https://github.com/0xdya/0xdya/blob/output/github-snake-dark.svg" />
 </p>
-<div  align="center">
-<img width="500px" src="https://count.getloli.com/@0xdya?name=0xdya&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
 
+
+
+<div  align="center">
+<img src="https://count.getloli.com/@0xdya?name=0xdya&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
 </div>
-  <h1 align="center">'visits count'</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/profile%20visits%20count-FF5733?style=for-the-badge&logo=&logoColor=white" alt="profile visits count"/>
+</p>
+
