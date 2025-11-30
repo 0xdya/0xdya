@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0xdya/0xdya/refs/heads/main/3.gif" width="100%"/>
-</p>
-
----
 <div align="center">
 
   <table align="center">
