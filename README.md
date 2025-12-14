@@ -26,7 +26,8 @@
 
 
 <div  align="center" ju>
-  <img width="280px" src="https://img.shields.io/badge/profile%20visits:-343a40?style=for-the-badge&logo=&logoColor=white" alt="profile visits:"/> <img src="https://count.getloli.com/@0xdya?name=0xdya&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
+   <h3>profile visits:</h3>
+  <img src="https://count.getloli.com/@0xdya?name=0xdya&theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
 </div>
 <p >
 </p>
