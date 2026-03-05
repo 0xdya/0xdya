@@ -10,19 +10,8 @@
       </td>
     </tr>
   </table>
-
-
-| languages | streaks |
-| --- | --- |
-| ![streaks](https://github-readme-streak-stats.herokuapp.com?user=0xdya&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000) | ![trophees](https://github-profile-trophy.vercel.app/?username=0xdya&theme=onedark&column=3&no-frame=true&no-bg=true) |
-
+  
 </div>
-
-
-
-
-
-
 
 
 <div  align="center" ju>
