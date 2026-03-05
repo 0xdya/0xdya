@@ -15,8 +15,8 @@
 
 
 <div  align="center" ju>
-   <h3>profile visits:</h3>
-  <img src="https://count.getloli.com/@0xdya?name=0xdya&theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1">
+   <h1>profile visits: <img height="80" src="https://count.getloli.com/@0xdya?name=0xdya&theme=sketch-1&padding=4&offset=1&scale=1&pixelated=1&darkmode=1"></h1>
+  
 </div>
 <p >
 </p>
