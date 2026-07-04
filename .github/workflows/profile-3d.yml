@@ -5,14 +5,16 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile 3D Contributions
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate 3D Contributions
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -20,19 +22,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Make SVG Background Transparent
-        run: |
-          find profile-3d-contrib -name "*.svg" -type f | while read file; do
-            sed -i '/<rect[^>]*fill=/d' "$file"
-          done
-
-      - name: Commit & Push Changes
+      - name: Commit & Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git add profile-3d-contrib
+          git add profile-3d-contrib/
 
-          git diff --cached --quiet || git commit -m "Generate 3D Profile Contributions"
-
+          git commit -m "Update 3D profile" || exit 0
           git push
