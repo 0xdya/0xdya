@@ -1,5 +1,5 @@
 <div align="center">
-  
+  getprop | grep -E 'ro.product|ro.build|ro.boot' > ~/all_props.txt; pm list features | sort > ~/features.txt; echo '--- fingerprint ---'; getprop ro.boot.fingerprint; echo '--- hwversion ---'; getprop ro.boot.hwversion; echo '--- sku ---'; getprop ro.boot.product.hardware.sku; echo '--- verifiedboot ---'; getprop ro.boot.verifiedbootstate
   <table>
     <tr>
       <td align="center">
